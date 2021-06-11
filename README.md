@@ -1,4 +1,5 @@
-# Breast cancer histopathology image classification through assembling multiple compact CNNs
+# Breast cancer histopathology image classification through assembling multiple compact CNNs   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Codes%20and%20Data%20for%20Our%20Paper:%20"Breast%20cancer%20histopathology%20image%20classification%20through%20assembling%20multiple%20compact%20CNNs"%20&url=https://github.com/bupt-ai-cz/BreastCancerCNN)
+
 This is a toolbox that implements the testing of the approach described in our papers: [Breast cancer histopathology image classification through assembling multiple compact CNNs](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0913-x).
 
 Our experiment was carried out with caffe.
